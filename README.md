@@ -221,6 +221,5 @@ This gives it instant reaction to new obstacles and dynamic behavior.
 
 
 
-# 📜 License  
-MIT License — free to use, learn from, and improve.
+
 
