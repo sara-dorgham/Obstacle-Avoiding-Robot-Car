@@ -212,11 +212,11 @@ This gives it instant reaction to new obstacles and dynamic behavior.
  ⭐ 6. Team Members  
 
 - Team Membe 1: Sara Dorgham
-- Team Membe 1:  Youssef Ahmed
-- Team Membe 1:   Nada Nabil
-- Team Membe 1:  Menna Elasaly
-- Team Membe 1:Eman Kilany
-- Team Membe 1:  Malak Khaled
+- Team Membe 2:  Youssef Ahmed
+- Team Membe 3:   Nada Nabil
+- Team Membe 4:  Menna Elasaly
+- Team Membe 5:Eman Kilany
+- Team Membe 6:  Malak Khaled
 
 
 
